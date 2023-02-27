@@ -1,4 +1,4 @@
-#CS2610: Computer Organization and Architecture Lab January-May 2023 Semester
+# CS2610: Computer Organization and Architecture Lab January-May 2023 Semester
 Verilog Programming Assignment 1
 Date: 6th February, 2023
 
